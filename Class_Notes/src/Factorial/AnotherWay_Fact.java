@@ -10,7 +10,7 @@ public class AnotherWay_Fact {
 					for(int i=1;i<=number;i++) {
 						fact = fact * i;
 					}
-					//return variablename
+					//return variable name
 					return fact;
 				}
 				
@@ -20,7 +20,7 @@ public class AnotherWay_Fact {
 					
             System.out.println("The factorial result is -->"+factResult);
 					
-            long factResult1=obj.factorialCalc(10);
+            //long factResult1=obj.factorialCalc(10);
 	}
    }
 }
