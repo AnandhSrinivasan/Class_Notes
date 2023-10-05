@@ -1,4 +1,4 @@
-package examples;
+package ArrayList_Examples;
 
 import java.util.ArrayList;
 //import java.util.Scanner;
