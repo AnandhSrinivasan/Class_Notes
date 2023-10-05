@@ -1,8 +1,8 @@
-package ArrayList_Examples;
+package arrayList_Examples;
 
 import java.util.ArrayList;
 
-public class Q7_Search_Element {
+public class Q6_remove_Element {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -12,9 +12,9 @@ public class Q7_Search_Element {
 		arrayList.add("Kailash");
 		arrayList.add("Madhavan");
 		arrayList.add("Kalivardhan");
+		arrayList.remove(2);
+		System.out.println(arrayList);
 		
-		boolean value = arrayList.contains("Deva");
-		System.out.println(value);
 	}
 
 }

@@ -1,4 +1,4 @@
-package ArrayList_Examples;
+package arrayList_Examples;
 
 public class Q5_Update_Element {
 
