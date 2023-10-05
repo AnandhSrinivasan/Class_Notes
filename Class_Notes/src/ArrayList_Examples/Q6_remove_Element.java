@@ -12,7 +12,7 @@ public class Q6_remove_Element {
 		arrayList.add("Kailash");
 		arrayList.add("Madhavan");
 		arrayList.add("Kalivardhan");
-		arrayList.remove(3);
+		arrayList.remove(2);
 		System.out.println(arrayList);
 		
 	}
